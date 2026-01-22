@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhatsAppBusiness.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+166d6a638a845453282dbbce727435297d8023f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c45d9390e41c3beae882ae6cd8155641d50986")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhatsAppBusiness.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhatsAppBusiness.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
