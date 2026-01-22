@@ -6,6 +6,7 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/WhatsAppBusiness.WebAPI.runtimeconfig.json
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/WhatsAppBusiness.WebAPI.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/WhatsAppBusiness.WebAPI.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/WhatsAppBusiness.WebAPI.xml
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/AutoMapper.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Azure.Core.dll
@@ -37,8 +38,10 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
@@ -55,6 +58,9 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.Extensions.Http.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Serilog.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Serilog.AspNetCore.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
@@ -66,7 +72,6 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Serilog.Sinks.File.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.ClientModel.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.CodeDom.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Composition.AttributedModel.dll
@@ -80,6 +85,7 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.IO.Pipelines.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Memory.Data.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Runtime.Caching.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/System.Security.Permissions.dll
@@ -192,9 +198,7 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsApp.622F5E72.Up2Date
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.dll
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/refint/WhatsAppBusiness.WebAPI.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.xml
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.pdb
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.genruntimeconfig.cache
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/ref/WhatsAppBusiness.WebAPI.dll
-/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
-/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.dll
-/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.Extensions.Http.dll

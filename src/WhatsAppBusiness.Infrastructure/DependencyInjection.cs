@@ -70,6 +70,7 @@ public static class DependencyInjection
         // Register WhatsApp services
         services.AddSingleton<WhatsAppWebhookValidator>();
         services.AddSingleton<WhatsAppMessageMapper>();
+        services.AddScoped<Application.Interfaces.IWhatsAppService, WhatsApp.WhatsAppService>();
 
         // Add WhatsApp HttpClient with resiliency
         services.AddHttpClient<WhatsAppClient>((sp, client) =>
@@ -87,6 +88,7 @@ public static class DependencyInjection
 
         // Register MCP services
         services.AddSingleton<MCPMessageFormatter>();
+        services.AddScoped<Application.Interfaces.IMCPService, MCP.MCPService>();
 
         // Add MCP HttpClient with resiliency
         services.AddHttpClient<MCPClient>((sp, client) =>
