@@ -1,0 +1,12 @@
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/bin/Debug/net9.0/WhatsAppBusiness.Domain.deps.json
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/bin/Debug/net9.0/WhatsAppBusiness.Domain.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/bin/Debug/net9.0/WhatsAppBusiness.Domain.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.AssemblyInfoInputs.cache
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.AssemblyInfo.cs
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.sourcelink.json
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/refint/WhatsAppBusiness.Domain.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/WhatsAppBusiness.Domain.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/Debug/net9.0/ref/WhatsAppBusiness.Domain.dll

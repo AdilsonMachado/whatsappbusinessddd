@@ -1,0 +1,16 @@
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/bin/Debug/net9.0/WhatsAppBusiness.Application.deps.json
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/bin/Debug/net9.0/WhatsAppBusiness.Application.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/bin/Debug/net9.0/WhatsAppBusiness.Application.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/bin/Debug/net9.0/WhatsAppBusiness.Domain.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/bin/Debug/net9.0/WhatsAppBusiness.Domain.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.csproj.AssemblyReference.cache
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.AssemblyInfoInputs.cache
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.AssemblyInfo.cs
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.csproj.CoreCompileInputs.cache
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.sourcelink.json
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsApp.A6D70F6E.Up2Date
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/refint/WhatsAppBusiness.Application.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/WhatsAppBusiness.Application.pdb
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/Debug/net9.0/ref/WhatsAppBusiness.Application.dll

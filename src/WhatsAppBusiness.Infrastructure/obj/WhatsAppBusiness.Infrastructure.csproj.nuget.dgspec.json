@@ -1,0 +1,240 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Infrastructure/WhatsAppBusiness.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/WhatsAppBusiness.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/WhatsAppBusiness.Application.csproj",
+        "projectName": "WhatsAppBusiness.Application",
+        "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/WhatsAppBusiness.Application.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj": {
+                "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[16.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj",
+        "projectName": "WhatsAppBusiness.Domain",
+        "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Infrastructure/WhatsAppBusiness.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Infrastructure/WhatsAppBusiness.Infrastructure.csproj",
+        "projectName": "WhatsAppBusiness.Infrastructure",
+        "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Infrastructure/WhatsAppBusiness.Infrastructure.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/runner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/WhatsAppBusiness.Application.csproj": {
+                "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Application/WhatsAppBusiness.Application.csproj"
+              },
+              "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj": {
+                "projectPath": "/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.Domain/WhatsAppBusiness.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.DataProtection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
