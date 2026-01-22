@@ -175,3 +175,11 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/obj/Debug/net9.0/WhatsAppBusiness.Infrastructure.Tests.pdb
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/obj/Debug/net9.0/WhatsAppBusiness.Infrastructure.Tests.genruntimeconfig.cache
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/obj/Debug/net9.0/ref/WhatsAppBusiness.Infrastructure.Tests.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Diagnostics.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Http.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Polly.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/tests/WhatsAppBusiness.Infrastructure.Tests/bin/Debug/net9.0/Polly.Extensions.Http.dll

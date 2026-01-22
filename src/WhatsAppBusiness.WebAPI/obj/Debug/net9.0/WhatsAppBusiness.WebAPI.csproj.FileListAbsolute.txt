@@ -195,3 +195,6 @@
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.pdb
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/WhatsAppBusiness.WebAPI.genruntimeconfig.cache
 /home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/obj/Debug/net9.0/ref/WhatsAppBusiness.WebAPI.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Microsoft.Extensions.Http.Polly.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.dll
+/home/runner/work/whatsappbusinessddd/whatsappbusinessddd/src/WhatsAppBusiness.WebAPI/bin/Debug/net9.0/Polly.Extensions.Http.dll
